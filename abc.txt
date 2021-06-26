@@ -1,0 +1,32 @@
+Collecting Flask
+  Downloading Flask-2.0.1-py3-none-any.whl (94 kB)
+Collecting Jinja2>=3.0
+  Downloading Jinja2-3.0.1-py3-none-any.whl (133 kB)
+Collecting itsdangerous>=2.0
+  Downloading itsdangerous-2.0.1-py3-none-any.whl (18 kB)
+Collecting click>=7.1.2
+  Downloading click-8.0.1-py3-none-any.whl (97 kB)
+Collecting Werkzeug>=2.0
+  Downloading Werkzeug-2.0.1-py3-none-any.whl (288 kB)
+Collecting MarkupSafe>=2.0
+  Downloading MarkupSafe-2.0.1-cp38-cp38-manylinux2010_x86_64.whl (30 kB)
+Installing collected packages: MarkupSafe, Werkzeug, Jinja2, itsdangerous, click, Flask
+Successfully installed Flask-2.0.1 Jinja2-3.0.1 MarkupSafe-2.0.1 Werkzeug-2.0.1 click-8.0.1 itsdangerous-2.0.1
+click==8.0.1
+Flask==2.0.1
+itsdangerous==2.0.1
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+Werkzeug==2.0.1
+
+Collecting mysql-connector-python
+  Downloading mysql_connector_python-8.0.25-cp38-cp38-manylinux1_x86_64.whl (25.4 MB)
+Collecting protobuf>=3.0.0
+  Downloading protobuf-3.17.3-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl (1.0 MB)
+Collecting six>=1.9
+  Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Installing collected packages: six, protobuf, mysql-connector-python
+Successfully installed mysql-connector-python-8.0.25 protobuf-3.17.3 six-1.16.0
+mysql-connector-python==8.0.25
+protobuf==3.17.3
+six==1.16.0
